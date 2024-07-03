@@ -1,0 +1,23 @@
+{
+  "name": "wordpress-theme-starterkit",
+  "bin": "bin/build.sh",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "watch": "wp-scripts start ./src/theme.ts --output-path=./theme/dist",
+    "build": "wp-scripts build ./src/theme.ts --output-path=./theme/dist"
+  },
+  "dependencies": {
+    "@wordpress/scripts": "28.2.0"
+  },
+  "author": {
+    "name": "Edward Bock",
+    "email": "hi@edwardbock.de",
+    "url": "https://www.edwardbock.de/"
+  },
+  "license": "GPL-3.0-or-later",
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  }
+}
