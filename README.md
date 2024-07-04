@@ -33,7 +33,7 @@ npm run dev
 ```
 
 Goto [localhost:8080](http://localhost:8080/), install WordPress, activate
-the theme and start modifying the code in the `theme` directory.
+the theme and start modifying the code in the `theme` or `src` directories.
 
 ## Streamline Your Workflow, Enhance Page Quality
 
