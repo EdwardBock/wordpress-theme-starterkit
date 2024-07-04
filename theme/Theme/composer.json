@@ -1,0 +1,12 @@
+{
+  "name": "edwardbock/wordpress-theme-starterkit",
+  "description": "Theme Starterkit",
+  "autoload": {
+    "psr-4": {
+      "WordPressThemeStarterkit\\": "classes"
+    }
+  },
+  "require": {
+    "php": "~8.1"
+  }
+}
