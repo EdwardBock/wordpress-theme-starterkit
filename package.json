@@ -1,6 +1,5 @@
 {
   "name": "wordpress-theme-starterkit",
-  "bin": "bin/build.sh",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -15,7 +14,7 @@
     "email": "hi@edwardbock.de",
     "url": "https://www.edwardbock.de/"
   },
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "engines": {
     "node": ">=20",
     "pnpm": ">=9"
