@@ -64,3 +64,6 @@ recommendations from [Write Better WordPress Code](https://medium.com/write-bett
 - **PSR-4 Autoloading:** Optimize your code organization and loading times with PSR-4 autoloading, ensuring efficient and standardized file management.
 - **WP Scripts Integration:** Simplify your development process with WP Scripts, a powerful toolset for modern JavaScript development in WordPress.
 
+## Liked it?
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/edwardbock)
