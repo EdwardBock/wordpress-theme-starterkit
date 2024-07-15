@@ -16,6 +16,7 @@
     "directory": "create-wordpress-theme-starterkit"
   },
   "author": "Edward Bock <hi@edwardbock.de>",
+  "homepage": "https://www.edwardbock.de",
   "license": "MIT",
   "bin": {
     "create-wordpress-theme-starterkit": "./bin/start.sh"
