@@ -1,0 +1,29 @@
+{
+  "name": "create-wordpress-theme-starterkit",
+  "version": "0.1.0",
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "scripts": {
+    "build": "./bin/build.sh",
+    "prepublishOnly": "npm run build"
+  },
+  "description": "Start a WordPress Theme with proven structure.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardbock/wordpress-theme-starterkit",
+    "directory": "create-wordpress-theme-starterkit"
+  },
+  "author": "Edward Bock <hi@edwardbock.de>",
+  "license": "MIT",
+  "bin": {
+    "create-wordpress-theme-starterkit": "./bin/start.sh"
+  },
+  "files": [
+    "template"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

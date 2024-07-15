@@ -7,7 +7,7 @@
     "build": "wp-scripts build ./src/theme.ts --output-path=./theme/dist"
   },
   "dependencies": {
-    "@wordpress/scripts": "28.2.0"
+    "@wordpress/scripts": "28.3.0"
   },
   "author": {
     "name": "Edward Bock",
