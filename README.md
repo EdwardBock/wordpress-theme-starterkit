@@ -1,5 +1,10 @@
 # WordPress Theme Starterkit
 
+> [!WARNING]
+> **No longer maintained.** This starter kit is from my WordPress years. The code stays freely available under
+> its license, but it is no longer developed and its dependencies are not updated anymore. Use it as a reference
+> rather than as the base for a new project.
+
 Are you looking to streamline your WordPress theme development process?
 This starterkit is crafted from years of professional theme development
 experience, ensuring your code is both maintainable and developer-friendly.
